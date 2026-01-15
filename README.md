@@ -1,4 +1,4 @@
-👋 Hi, I'm Jakub, Computer Science and Measurement Systems Student. This profile serves as my mini-portfolio where I keep my projects, organize them and track my progess.
+Hi, I'm Jakub, Computer Science and Measurement Systems Student. This profile serves as my mini-portfolio where I keep my projects, organize them and track my progess.
 Most of the code here was written while learning new things (and occasionally fighting deadlines).
 
 ## Personal Projects / Assignments
