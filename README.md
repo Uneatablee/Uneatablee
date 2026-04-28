@@ -6,8 +6,8 @@ Most of the code here was written while learning new things (and occasionally fi
 |  📖 Project | Pull Requests  |
 | --------------------------------|---|
 | [TimesApp](https://github.com/Uneatablee/TimesApp) | ![PRs](https://img.shields.io/github/issues-pr/Uneatablee/TimesApp) |
-| [times-app-web-api](https://github.com/Uneatablee/LimitOrderBookVisualiser) | ![PRs](https://img.shields.io/github/issues-pr/Uneatablee/Uneatablee/LimitOrderBookVisualiser)|
-| [times-app-web-api](https://github.com/Uneatablee/RefORM) | ![PRs](https://img.shields.io/github/issues-pr/Uneatablee/RefORM)|
-| [times-app-web-api](https://github.com/Uneatablee/market-data-dashboard) | ![PRs](https://img.shields.io/github/issues-pr/Uneatablee/market-data-dashboard)|
+| [LimitOrderBookVisualiser](https://github.com/Uneatablee/LimitOrderBookVisualiser) | ![PRs](https://img.shields.io/github/issues-pr/Uneatablee/Uneatablee/LimitOrderBookVisualiser)|
+| [RefORM](https://github.com/Uneatablee/RefORM) | ![PRs](https://img.shields.io/github/issues-pr/Uneatablee/RefORM)|
+| [market-data-dashboard](https://github.com/Uneatablee/market-data-dashboard) | ![PRs](https://img.shields.io/github/issues-pr/Uneatablee/market-data-dashboard)|
 
 
